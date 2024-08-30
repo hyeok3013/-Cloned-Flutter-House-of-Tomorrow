@@ -1,3 +1,10 @@
+# Flutter House of Tomorrow - Clone
+
+This project is a clone of the original [Flutter House of Tomorrow](링크) project. It was created as part of a learning exercise to better understand Flutter development. The project initially utilized the Provider package for state management.
+
+## Recent Update
+The state management approach has been refactored from Provider to Riverpod for improved performance and maintainability.
+
 # House of Tomorrow
 A shopping app project for learning Flutter.
 
